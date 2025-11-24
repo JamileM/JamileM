@@ -1,4 +1,7 @@
-![Foto de perfil] (DevJamile)
+<p align="center">
+  <img src="assets/images/DevJamile.jpeg">
+</p>
+
 
 Seja muito bem-vindo(a)! 🌸 
 
